@@ -7,7 +7,7 @@
 **Dynamic metastability in the self-attention model** by Borjan Geshkovski, Hugo Koubbi, Yury Polyanskiy, and Philippe Rigollet. 
 
 <p align="center">
-  <img src="movies/1.gif" alt="animated" width="400"/>
+  <img src="video[tape]/1.gif" alt="animated" width="400"/>
   <img src="in-rainbows.png" width="300"/>
 </p>
 
