@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="movies/1.gif" alt="animated" width="400"/>
-  <img src="rainbow.png" width="200"/>
+  <img src="rainbow.png" width="300"/>
 </p>
 
 
