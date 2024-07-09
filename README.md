@@ -8,6 +8,7 @@
 
 <p align="center">
   <img src="movies/1.gif" alt="animated" width="400"/>
+  <img src="rainbow.pdf" width="400"/>
 </p>
 
 
